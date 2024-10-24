@@ -1,0 +1,145 @@
+{ 
+    "changes": [
+        {
+            "course_no": "CS F111",
+            "course_title": "COMPUTER PROGRAMMING",
+            "sections": [
+                {
+                    "section_no": "P7",
+                    "existing_instructor": [
+                        "Paresh Saxena",
+                        "Sadeep Ravikanti"
+                    ],
+                    "new_instructor": [
+                        "Paresh Saxena",
+                        "S Shashank"
+                    ]
+                },
+                {
+                    "section_no": "P8",
+                    "existing_instructor": [
+                        "Paresh Saxena",
+                        "Sadeep Ravikanti"
+                    ],
+                    "new_instructor": [
+                        "Paresh Saxena",
+                        "S Shashank"
+                    ]
+                }
+            ]
+        },
+        {
+            "course_no": "CS F213",
+            "course_title": "OBJECT ORIENTED PROG",
+            "sections": [
+                {
+                    "section_no": "P3",
+                    "existing_instructor": [
+                        "Abhijit Das",
+                        "Sadeep Ravikanti"
+                    ],
+                    "new_instructor": [
+                        "Abhijit Das",
+                        "Chaitra C R"
+                    ]
+                },
+                {
+                    "section_no": "P4",
+                    "existing_instructor": [
+                        "Abhijit Das",
+                        "Sadeep Ravikanti"
+                    ],
+                    "new_instructor": [
+                        "Abhijit Das",
+                        "Sita Rasagna Vakkalanka"
+                    ]
+                }
+            ]
+        },
+        {
+            "course_no": "BITS F452",
+            "course_title": "Blockchain Technology",
+            "sections": [
+                {
+                    "section_no": "L1",
+                    "existing_instructor": [
+                        "JAY KAMLESH DAVE",
+                        "Asmita Biswas",
+                        "Chaitra C R",
+                        "S Rasagna Vakkalanka"
+                    ],
+                    "new_instructor": [
+                        "JAY KAMLESH DAVE",
+                        "Asmita Biswas"
+                    ]
+                }
+            ]
+        },
+        {
+            "course_no": "CS F317",
+            "course_title": "Reinforcement Learning",
+            "sections": [
+                {
+                    "section_no": "L1",
+                    "existing_instructor": [
+                        "PARESH SAXENA",
+                        "S Shashank"
+                    ],
+                    "new_instructor": [
+                        "PARESH SAXENA"
+                    ]
+                }
+            ]
+        },
+        {
+            "course_no": "BITS F232",
+            "course_title": "Foundations of Data Structures and Algorithms",
+            "sections": [
+                {
+                    "section_no": "P1",
+                    "existing_instructor": [
+                        "Chittaranjan Hota",
+                        "Ashish Kumar Kumawat"
+                    ],
+                    "new_instructor": [
+                        "Barsha Mitra",
+                        "Ashish Kumar Kumawat"
+                    ]
+                },
+                {
+                    "section_no": "P2",
+                    "existing_instructor": [
+                        "Chittaranjan Hota",
+                        "Ashish Kumar Kumawat"
+                    ],
+                    "new_instructor": [
+                        "Apurba Das",
+                        "Ashish Kumar Kumawat"
+                    ]
+                },
+                {
+                    "section_no": "P3",
+                    "existing_instructor": [
+                        "Barsha Mitra",
+                        "Alekhya Gorrela"
+                    ],
+                    "new_instructor": [
+                        "Apurba Das",
+                        "Alekhya Gorrela"
+                    ]
+                },
+                {
+                    "section_no": "P4",
+                    "existing_instructor": [
+                        "Barsha Mitra"
+                    ],
+                    "new_instructor": [
+                        "Barsha Mitra",
+                        "Alekhya Gorrela"
+                    ]
+                }
+            ]
+        }
+    ]
+}
+// I had no time so i had to push
